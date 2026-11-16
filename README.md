@@ -23,10 +23,9 @@ Requiere .NET 8 SDK.
 
 ## Capturas
 
-![Formulario](capturas/formulario.png)
-![Presentación correcta](capturas/caso1.png)
-![Advertencia](capturas/caso2.png)
-
+![Captura 1](capturas/captura1.png)
+![Captura 2](capturas/captura2.png)
+![Captura 3](capturas/captura3.png)
 ## Reflexión
 
 (pendiente)
