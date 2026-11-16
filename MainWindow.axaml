@@ -13,8 +13,8 @@
 
         <StackPanel Orientation="Horizontal" Spacing="10">
             <Button x:Name="BtnPresentarme" Content="Presentarme" Click="BtnPresentarme_Click"/>
-            <Button x:Name="BtnCambiarSaludo" Content="Cambiar saludo" Click="BtnCambiarSaludo_Click"/>
-            <Button x:Name="BtnCambiarSaludo" Content="Cambiar saludo" Click="BtnCambiarSaludo_Click"/>
+            
+            
         </StackPanel>
 
         <TextBlock x:Name="TxtResultado" Text="Completa tus datos y presiona Presentarme." TextWrapping="Wrap"/>
